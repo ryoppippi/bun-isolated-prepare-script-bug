@@ -1,0 +1,11 @@
+{
+  "name": "bun-isolated-prepare-script-bug",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "prepare": "cowsay 'Hello from prepare script!'"
+  },
+  "devDependencies": {
+    "cowsay": "^1.6.0"
+  }
+}
